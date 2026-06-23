@@ -3,14 +3,11 @@
 ## Proposta
 
 **ShekelStore** é uma loja virtual de shekels (moeda virtual) onde usuários podem:
-- Apostar shekels em jogos de cassino (Cara ou Coroa, Dado, Caça-Níquel)
-- Comprar itens virtuais na loja com os shekels ganhos
-- Acompanhar cotações reais do Shekel Israelense (ILS) via API externa
 - Investir em ativos virtuais usando a bússola para apontar para Israel
 - Compartilhar resultados e conquistas
 - Personalizar o perfil com foto tirada pela câmera
 
-Nenhum dinheiro real é utilizado — apenas shekels virtuais.
+Nenhum dinheiro real é utilizado, apenas shekels virtuais.
 
 ---
 
