@@ -14,13 +14,10 @@ Desenvolvida em Flutter como Atividade Ponderada 4 do curso de Engenharia de Sof
 
 ## Funcionalidades
 
-- Jogos de cassino: Cara ou Coroa, Dado Sortudo, Caça-Níquel
-- Loja de itens virtuais compráveis com shekels ganhos
-- Cotações em tempo real do Shekel Israelense (ILS) via API externa
 - Investimentos virtuais com bússola que usa o magnetômetro do celular para apontar para Jerusalém
 - Conselheiro financeiro "Rabi Mordechai" com dicas do dia
 - Foto de perfil tirada pela câmera do dispositivo
-- Notificações locais para vitórias, compras e bônus diário
+- Notificações locais para e bônus diário
 - Compartilhamento de resultados via apps nativos
 - Backup automático do banco de dados a cada 5 minutos
 
