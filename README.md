@@ -6,6 +6,12 @@ Desenvolvida em Flutter como Atividade Ponderada 4 do curso de Engenharia de Sof
 
 ---
 
+## Vídeo de apresentação
+
+<video src="explicacao-video.mp4" controls width="100%"></video>
+
+---
+
 ## Funcionalidades
 
 - Jogos de cassino: Cara ou Coroa, Dado Sortudo, Caça-Níquel
